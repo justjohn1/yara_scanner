@@ -19,6 +19,8 @@ num_threads = X ##Change to your preference
 yara_rules_directory = "/path/to/your/directory/holding/yara/files/file_name.yar" ##folder should contain .yar||.yara files
 
 ## Configuration
+
+
 Specifying Directories and Files to Include or Exclude
 You can specify which directories and files to include or exclude in the scan. This is useful for focusing the scan on relevant areas or avoiding unnecessary areas.
 
