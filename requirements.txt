@@ -1,0 +1,5 @@
+yara-python
+psutil
+smtplib
+concurrent.futures
+math
