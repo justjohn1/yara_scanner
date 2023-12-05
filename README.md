@@ -14,8 +14,8 @@ Yara Scanner is a comprehensive tool for scanning files and processes on a syste
 (Provide instructions on how to install your tool. Include steps to install YARA and any other dependencies.)
 
 ## Usage
-Adjust threads and directory containing yara files
-(example below)
+Adjust threads and directory containing yara files (example below)
+
     <img width="664" alt="image" src="https://github.com/justjohn1/yara_scanner/assets/17276975/00ded30b-86af-4e76-8c7a-a79c095f95f0">
 
 Adjust threads and director (example below)
