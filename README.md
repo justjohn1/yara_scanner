@@ -24,11 +24,11 @@ Adjust threads and directory containing yara files (example below)
 Next adjust the settings shown below:
 
 scan_directory_path
-include_dirs: List of dirs to specifically include in the scan. Only these directories will be scanned.
-exclude_dirs: List of dirs to exclude from the scan. These directories will be skipped.
-include_files: List of filenames to include in the scan. Only these files will be scanned.
-exclude_files: List of filenames to exclude from the scan. These files will be skipped.
-verbose = True - shows files scanned in real-time or False for no output
+include_dirs: List of dirs to specifically include in the scan. Only these directories will be scanned.\n
+exclude_dirs: List of dirs to exclude from the scan. These directories will be skipped.\n
+include_files: List of filenames to include in the scan. Only these files will be scanned.\n
+exclude_files: List of filenames to exclude from the scan. These files will be skipped.\n
+verbose = True - shows files scanned in real-time or False for no output\n
 
 <img width="665" alt="image" src="https://github.com/justjohn1/yara_scanner/assets/17276975/805532c4-95f9-496f-9e16-93d3435803c9">
 
