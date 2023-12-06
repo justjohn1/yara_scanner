@@ -20,7 +20,7 @@ Adjust threads and directory containing yara files (example below)
 
 
 
-
+##
 Next adjust the settings shown below:
 
 scan_directory_path
