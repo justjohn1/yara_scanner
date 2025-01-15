@@ -1,7 +1,7 @@
 # Yara Scanner
 
 ## Description
-Yara Scanner is a comprehensive tool for scanning files and processes on a system using YARA rules. It's designed to detect malware, suspicious activities, and specific patterns in files and running processes.
+Yara Scanner is a comprehensive tool for scanning files and processes on systems using YARA rules. It's designed to detect malware, suspicious activities, and specific patterns in files and running processes.
 
 ## Features
 - Scan files and directories with YARA rules.
