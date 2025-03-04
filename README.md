@@ -88,6 +88,7 @@ Linux and MacOS
 		Then run:
 		python scanner.py --directory /path/to/folder
 		Any **suspicious file** will be **cross-checked** against VirusTotal's malware database.
+```
 
 
 
@@ -103,7 +104,7 @@ Linux and MacOS
 | **Whitelist Support**  | Exclude **known-safe files** from scans 		  | `--whitelist /path/to/file`
 | **VirusTotal API**     | Check flagged files against **VirusTotal** 		  | Requires API Key 
 
----
+```
 
 ## 📊 **How It Works**
 🔹 **Step 1: Compile & Validate YARA Rules**  
