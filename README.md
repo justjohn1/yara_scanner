@@ -1,7 +1,7 @@
 # 🛡️ **YARA-Powered Advanced Malware Scanner** 🚀  
 
 ## **Overview**  
-This **cutting-edge malware scanner** leverages the power of **YARA rules** to provide **next-generation threat detection**. Designed for **security professionals, forensic analysts, and SOC teams**, this tool goes beyond traditional YARA scanning by integrating **file intelligence, entropy analysis, VirusTotal verification, and process memory scanning**—ensuring **high-accuracy threat hunting** with **reduced false positives**.  
+This malware scanner leverages the power of **YARA rules** to provide **next-generation IPS signature-like threat detection...but for your OS**. Designed for **security professionals, forensic analysts, and SOC teams**, this tool integrates **file intelligence, entropy analysis, VirusTotal verification** (if desired), **and process memory scanning** allowing for **high-accuracy threat hunting** with **reduced false positives**.
 
 💡 **Detect threats hidden inside executables, documents, ISO images, binaries, and even running processes**—with full support for **any YARA signature worldwide**.  
 
@@ -38,7 +38,7 @@ Download the YARA rulesets into a single directory, each set in it's extracted f
 	- [Yaraify abuse.ch] - https://yaraify.abuse.ch/yarahub/yaraify-rules.zip
 	
 
-This code iterates through the folders specifically looking for ".yar" files. Once found, the code auto compiles them for us
+This code iterates through your spcified directory to use all discovered ".yar" files. Once found, the code auto compiles them for us.
 
 
 ### **3️⃣ Troubleshooting**
