@@ -34,7 +34,7 @@ Download the YARA rulesets into a single directory, each set in it's extracted f
 	You can use **any** YARA ruleset, I used:  
 	- [Florian Roth’s Signature Base](https://github.com/Neo23x0/signature-base)  
 	- [YARA-Rules Project](https://github.com/YARA-Rules/rules)  
-	- [YARA Forge Rule Colletion] - https://github.com/YARAHQ/yara-forge/releases/latest/download/yara-forge-rules-full.zip
+	- [YARA Forge] - https://github.com/YARAHQ/yara-forge/releases/latest/download/yara-forge-rules-full.zip
 	- [Yaraify abuse.ch] - https://yaraify.abuse.ch/yarahub/yaraify-rules.zip
 	
 
