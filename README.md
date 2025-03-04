@@ -42,10 +42,11 @@ This code iterates through the folders specifically looking for ".yar" files. On
 
 
 ### **3️⃣ Troubleshooting**
+```sh
 Windows
   Remove yara and re-install
 Linux and MacOS
-	If you have troulbe getting the code to find the yara try:
+	If you have troulbe getting the code to find yara sigs try:
 	    Removing yara and then fresh install::
 		pip uninstall yara-python --break-system-packages
 		pip uninstall yara-python --break-system-packages
@@ -62,7 +63,7 @@ Linux and MacOS
 	    	sudo ln -s /home/ecks/Downloads/software/yara/yara-4.5.1/.libs/libyara.so /usr/lib/libyara.so
 	    	   The first dir is where yara is now installed ("echo $LD_LIBRARY_PATH")
 	    	   	The second dir is where the code is saying it cannot find YARA...so we link it with this command.
----
+```
 
 ## 🚀 **Usage**
 ### **1️⃣ Scan a Directory for Malware**
