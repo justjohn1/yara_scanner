@@ -39,7 +39,6 @@ Download the YARA rulesets into a single directory, each set in it's extracted f
 	
 
 This code iterates through the folders specifically looking for ".yar" files. Once found, the code auto compiles them for us
-```
 
 
 ### **3️⃣ Troubleshooting**
