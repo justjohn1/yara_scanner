@@ -146,8 +146,6 @@ Do **not** use it on **live production systems** unless you fully understand the
 
 ## 🤝 **Contributing**
 Want to improve this scanner? **Pull requests are welcome!**  
-- **Found a bug?** Submit an issue.  
-- **Have an idea?** Suggest an enhancement.  
 
 ---
 
@@ -157,7 +155,6 @@ This project is licensed under the **MIT License** – free to use, modify, and 
 ---
 
 ### ⭐ **If this tool helped you, please give it a star on GitHub!** ⭐  
-🔗 **[GitHub Repo Link](https://github.com/YOUR-GITHUB/YARA-Malware-Scanner)**  
 
 ---
 
